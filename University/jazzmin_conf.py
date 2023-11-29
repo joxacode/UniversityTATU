@@ -1,24 +1,24 @@
 JAZZMIN_SETTINGS = {
     # title of the window (Will default to current_admin_site.site_title if absent or None)
-    "site_title": "HT-MED",
+    "site_title": "Burafshon TTJ",
 
     # Title on the login screen (19 chars max) (defaults to current_admin_site.site_header if absent or None)
-    "site_header": "HT-MED Admin",
+    "site_header": "Burafshon TTJ",
 
     # Title on the brand (19 chars max) (defaults to current_admin_site.site_header if absent or None)
-    "site_brand": "HT-MED",
+    "site_brand": "Burafshon TTJ",
 
     # Logo to use for your site, must be present in static files, used for brand on top left
-    "site_logo": 'register_image/image.png',
+    "site_logo": None,
 
     # Logo to use for your site, must be present in static files, used for login form logo (defaults to site_logo)
-    "login_logo": 'register_image/image.png',
+    "login_logo": None,
 
     # Logo to use for login form in dark themes (defaults to login_logo)
-    "login_logo_dark": 'register_image/image.png',
+    "login_logo_dark": '',
 
     # CSS classes that are applied to the logo above
-    "site_logo_classes": 'register_image/image.png',
+    "site_logo_classes": '',
     # Copyright on the footer
     "copyright": "HT-MED",
 
